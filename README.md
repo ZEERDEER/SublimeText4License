@@ -1,5 +1,7 @@
 # 📖Sublime Text 4 License
 
+**Place the patch in the Sublime Text 4 directory and run it.**
+
 **⚠ Please note that this action may violate the software's terms of service. Proceed with caution and assess the risks beforehand.**
 
 
