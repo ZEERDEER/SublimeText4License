@@ -1,6 +1,6 @@
 # 📖Sublime Text 4 License
 
-**Place the patch in the Sublime Text 4 directory and run it.**
+**After downloading the [Releases](https://github.com/ZEERDEER/SublimeText4License/releases/tag/main), place the patch in the Sublime Text 4 directory to run.**
 
 **⚠ Please note that this action may violate the software's terms of service. Proceed with caution and assess the risks beforehand.**
 
